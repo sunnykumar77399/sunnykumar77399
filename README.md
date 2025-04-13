@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend development and Mastering Data structure
 - 📫 How to reach me : sunnykumar086421@gmail.com, MobNo : 7739947150
 - ⚡ Skills :
-  Data Structure
+  Data Structure, 
   Language : C/C++, Python, Javascript and PHP
   Development : HTML, CSS, Bootstrap, Javascript, SQL, Node.js, Express.js
 
