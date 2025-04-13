@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sunny-kumar-589238260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny kumar" height="30" width="40" /></a>
-<a href="https://fb.com/sunny kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sunny kumar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/18wUj9grg8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sunny kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/rudraroy_666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rudraroy_666" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sunnykumar04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunnykumar04" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sunnykumar666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sunnykumar666" height="30" width="40" /></a>
