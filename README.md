@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **sunnykumar086421@gmail.com**
 
-- 📄 Know about my experiences [Sunny Kumar_Result](https://drive.google.com/file/d/19_JZooGTSa2XYcOuDj7dXxbPHFog4pQV/view?usp=sharing)
+- 📄 Know about my experiences [Sunny Kumar_Resume](https://drive.google.com/file/d/19_JZooGTSa2XYcOuDj7dXxbPHFog4pQV/view?usp=sharing)
 
 - ⚡ Fun fact : **Loves Traveling**
 
