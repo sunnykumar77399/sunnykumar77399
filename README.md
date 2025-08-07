@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnykumar&label=Profile%20views&color=0e75b6&style=flat" alt="sunnykumar" /> </p>
 
-- 🌱 I’m currently learning **React and Python Frameworks**
+- 🌱 I’m currently learning **React and Data Strcuture**
 
 - 💬 Ask me about **Data Structure**
 
